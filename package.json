@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vy2907/udemyweb.git"
+  },
+  "author": "Vy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vy2907/udemyweb/issues"
+  },
+  "homepage": "https://github.com/vy2907/udemyweb#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
